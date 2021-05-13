@@ -1,4 +1,4 @@
-Project is now rewritten in C# and the database migrated to MSSQL.
+Project is being rewritten in C# and the database migrated to MSSQL.
 
 v3 is the last version and implemented an ML API to set the relays as required to adjust the environment.
 
